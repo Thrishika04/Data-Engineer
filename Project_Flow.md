@@ -50,6 +50,7 @@ I also conducted validation checks to ensure data accuracy and maintained compli
 Automated pipeline monitoring using Azure Monitor.
 Configured alerts to detect failures or performance issues, ensuring minimal downtime.
 Regularly analyzed logs to identify bottlenecks and improve system efficiency.
+
 **My Role:**
 I set up alert mechanisms to notify the team in case of job failures.
 I also analyzed logs to proactively resolve recurring issues.
