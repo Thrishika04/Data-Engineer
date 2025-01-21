@@ -6,11 +6,11 @@ I have strong expertise in using PySpark and SQL for data transformation, as wel
 
 # **RAK Bank Project Flow:**
 
-The goal of this project was to build a centralized platform to process and analyze large volumes of transactional data for a leading bank.
+The goal of this project was to build a centralized platform to process and analyze large volumes of transactional data.
 
 My role involved developing ETL pipelines in Azure Data Factory (ADF) to ingest raw data from SQL Server and Oracle databases into Azure Data Lake Storage Gen2 (Bronze layer). This raw data was stored in its original form to maintain an audit trail and ensure traceability, and I handled scenarios like schema changes dynamically while validating data completeness.
 
-In the Silver layer, I used PySpark in Azure Databricks to transform the raw data into analytics-ready datasets by cleaning it, standardizing formats, and applying business logic for use cases such as fraud detection and customer segmentation. 
+In the Silver layer of Azure Databricks, I used PySpark to transform raw data into analytics-ready datasets by cleaning, validating, and structuring it. This process involved removing duplicates, handling missing values, standardizing formats, and applying business logic to prepare the data for use cases such as fraud detection and customer segmentation. 
 
 The refined and aggregated data was then stored in the Gold layer, optimized for deriving insights and generating reports. These reports were then used by a dedicated Power BI team.
 
