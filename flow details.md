@@ -1,4 +1,4 @@
-# **Bank Project Flow:**
+# **RAK Bank Project Flow:**
 
 The goal of this project was to build a centralized platform to process and analyze large volumes of transactional data for a leading bank.
 
