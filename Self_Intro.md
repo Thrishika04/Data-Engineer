@@ -23,3 +23,15 @@ Managed code versioning using GitHub, ensuring smooth collaboration and proper v
 Used Jira for agile project tracking and task management, contributing to the successful and timely delivery of data engineering projects.
 
 Collaborated with cross-functional teams to implement best practices for storing, organizing, and processing data in ADLS Blob Storage, ensuring optimal data access and retrieval performance.
+
+
+
+
+
+
+
+# Intro 
+
+Hi, I’m Thrishika, an Azure Data Engineer with 3 years of experience in building and managing data pipelines on the Azure cloud platform. I specialize in tools like Azure Data Factory, Databricks, and Azure Data Lake, where I design efficient and scalable solutions for both batch and real-time data processing.
+
+I have strong expertise in using PySpark and SQL for data transformation, as well as automating workflows to ensure smooth data operations. I collaborate effectively with cross-functional teams using GitHub for version control and Jira for project tracking, ensuring timely delivery and high-quality data solutions.
